@@ -1,7 +1,4 @@
-## Writeup Template
-### You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method and submit a pdf if you prefer.
 
----
 
 **Vehicle Detection Project**
 
@@ -313,7 +310,4 @@ result video is on the folder.
 
 ---
 
-### Discussion
-
-#### 1. I've spent a lot of time with HOG parameters, for ex with LUV color scheme, there was a lot of false detections. My final solution could be improved with calculating average coordinates for each founded box, I think. Boxes will run smoothly and more robust.
 
